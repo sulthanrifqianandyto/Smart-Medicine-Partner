@@ -1,0 +1,56 @@
+.LoginSeller {
+  width: 1363px;
+  height: 1024px;
+  position: relative;
+  background: white;
+}
+.Rectangle14 {
+  width: 1363px;
+  height: 128px;
+  left: 0px;
+  top: -2px;
+  position: absolute;
+  background: #1fab89;
+}
+.LoginApotik {
+  left: 504px;
+  top: 222px;
+  position: absolute;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 64px;
+  font-family: "inter", sans-serif;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+.MedicinePartner {
+  left: 91px;
+  top: 34px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 24px;
+  font-family: Inter;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+.palang {
+  left: 27px;
+  top: -2px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 96px;
+  font-family: Inter;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+.Rectangle16 {
+  width: 628px;
+  height: 411px;
+  left: 368px;
+  top: 210px;
+  position: absolute;
+  background: rgba(217, 217, 217, 0.8);
+  border-radius: 10px;
+}
