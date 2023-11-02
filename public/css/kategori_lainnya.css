@@ -1,0 +1,1017 @@
+.Kategorilainnya{
+    width: 1363px;
+    height: 1024px;
+    position: relative;
+    background: #FCFCFC;
+}
+
+.Rectangle14 {
+    width: 1363px;
+    height: 78px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #1FAB89;
+}
+
+.MedicinePartner {
+    left: 650px;
+    top: 14px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.plus {
+    left: 583px;
+    top: -21px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 96px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group39 {
+    width: 1363px;
+    height: 239px;
+    left: 0px;
+    top: 82px;
+    position: absolute;
+}
+
+.Group39 .Rectangle17 {
+    width: 1363px;
+    height: 239px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #62D2A2;
+}
+
+.Group39 .lainnya {
+    width: 100%;
+    height: 74px;
+    top: 82px;
+    position: absolute;
+    text-align: center;
+    color: #FCFCFC;
+    font-size: 64px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group39 .Pngegg1 {
+    width: 195px;
+    height: 195px;
+    left: 15px;
+    top: 22px;
+    position: absolute;
+}
+
+.Group35 {
+    width: 221px;
+    height: 318px;
+    left: 33px;
+    top: 336px;
+    position: absolute;
+    background-color: #d9d9d9
+}
+
+.Group35 .Rectangle17 {
+    width: 221px;
+    height: 318px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #D9D9D9;
+}
+
+.Group35 .Paracetamol10mg {
+    width: 207px;
+    height: 53px;
+    left: 7px;
+    top: 192px;
+    position: absolute;
+    text-align: center;
+    color: #FCFCFC;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group35 .Rp15000 {
+    width: 181.48px;
+    height: 27.88px;
+    left: 19.76px;
+    top: 245.16px;
+    position: absolute;
+    text-align: center;
+    color: #62D2A2;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+.Group35 .Rectangle17 {
+    width: 70.98px;
+    height: 33.98px;
+    left: 74.64px;
+    top: 273.57px;
+    position: absolute;
+    background: #62D2A2;
+    border-radius: 20px;
+}
+
+.Group35 .Beli {
+    width: 55px;
+    height: 20px;
+    left: 83px;
+    top: 280px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group35 .Rectangle44 {
+    width: 207.10px;
+    height: 175.12px;
+    left: 6.59px;
+    top: 9.58px;
+    position: absolute;
+    background: white;
+}
+
+.Group35 .Gambar {
+    left: 73px;
+    top: 85px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group46 {
+    width: 221px;
+    height: 318px;
+    left: 571px;
+    top: 678px;
+    position: absolute;
+    background-color: #d9d9d9
+}
+
+.Group46 .Rectangle17 {
+    width: 221px;
+    height: 318px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #D9D9D9;
+}
+
+.Group46 .Paracetamol10mg {
+    width: 207px;
+    height: 53px;
+    left: 7px;
+    top: 192px;
+    position: absolute;
+    text-align: center;
+    color: #FCFCFC;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group46 .Rp15000 {
+    width: 181.48px;
+    height: 27.88px;
+    left: 19.76px;
+    top: 245.16px;
+    position: absolute;
+    text-align: center;
+    color: #62D2A2;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+.Group46 .Rectangle17 {
+    width: 70.98px;
+    height: 33.98px;
+    left: 74.64px;
+    top: 273.57px;
+    position: absolute;
+    background: #62D2A2;
+    border-radius: 20px;
+}
+
+.Group46 .Beli {
+    width: 55px;
+    height: 20px;
+    left: 83px;
+    top: 280px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group46 .Rectangle44 {
+    width: 207.10px;
+    height: 175.12px;
+    left: 6.59px;
+    top: 9.58px;
+    position: absolute;
+    background: white;
+}
+
+.Group46 .Gambar {
+    left: 73px;
+    top: 85px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group45 {
+    width: 221px;
+    height: 318px;
+    left: 302px;
+    top: 678px;
+    position: absolute;
+    background-color: #d9d9d9
+}
+
+.Group45 .Rectangle17 {
+    width: 221px;
+    height: 318px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #D9D9D9;
+}
+
+.Group45 .Paracetamol10mg {
+    width: 207px;
+    height: 53px;
+    left: 7px;
+    top: 192px;
+    position: absolute;
+    text-align: center;
+    color: #FCFCFC;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group45 .Rp15000 {
+    width: 181.48px;
+    height: 27.88px;
+    left: 19.76px;
+    top: 245.16px;
+    position: absolute;
+    text-align: center;
+    color: #62D2A2;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+.Group45 .Rectangle17 {
+    width: 70.98px;
+    height: 33.98px;
+    left: 74.64px;
+    top: 273.57px;
+    position: absolute;
+    background: #62D2A2;
+    border-radius: 20px;
+}
+
+.Group45 .Beli {
+    width: 55px;
+    height: 20px;
+    left: 83px;
+    top: 280px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group45 .Rectangle44 {
+    width: 207.10px;
+    height: 175.12px;
+    left: 6.59px;
+    top: 9.58px;
+    position: absolute;
+    background: white;
+}
+
+.Group45 .Gambar {
+    left: 73px;
+    top: 85px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group44 {
+    width: 221px;
+    height: 318px;
+    left: 33px;
+    top: 678px;
+    position: absolute;
+    background-color: #d9d9d9
+}
+
+.Group44 .Rectangle17 {
+    width: 221px;
+    height: 318px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #D9D9D9;
+}
+
+.Group44 .Paracetamol10mg {
+    width: 207px;
+    height: 53px;
+    left: 7px;
+    top: 192px;
+    position: absolute;
+    text-align: center;
+    color: #FCFCFC;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group44 .Rp15000 {
+    width: 181.48px;
+    height: 27.88px;
+    left: 19.76px;
+    top: 245.16px;
+    position: absolute;
+    text-align: center;
+    color: #62D2A2;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+.Group44 .Rectangle17 {
+    width: 70.98px;
+    height: 33.98px;
+    left: 74.64px;
+    top: 273.57px;
+    position: absolute;
+    background: #62D2A2;
+    border-radius: 20px;
+}
+
+.Group44 .Beli {
+    width: 55px;
+    height: 20px;
+    left: 83px;
+    top: 280px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group44 .Rectangle44 {
+    width: 207.10px;
+    height: 175.12px;
+    left: 6.59px;
+    top: 9.58px;
+    position: absolute;
+    background: white;
+}
+
+.Group44 .Gambar {
+    left: 73px;
+    top: 85px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group43 {
+    width: 221px;
+    height: 318px;
+    left: 1109px;
+    top: 336px;
+    position: absolute;
+    background-color: #d9d9d9
+}
+
+.Group43 .Rectangle17 {
+    width: 221px;
+    height: 318px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #D9D9D9;
+}
+
+.Group43 .Paracetamol10mg {
+    width: 207px;
+    height: 53px;
+    left: 7px;
+    top: 192px;
+    position: absolute;
+    text-align: center;
+    color: #FCFCFC;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group43 .Rp15000 {
+    width: 181.48px;
+    height: 27.88px;
+    left: 19.76px;
+    top: 245.16px;
+    position: absolute;
+    text-align: center;
+    color: #62D2A2;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+.Group43 .Rectangle17 {
+    width: 70.98px;
+    height: 33.98px;
+    left: 74.64px;
+    top: 273.57px;
+    position: absolute;
+    background: #62D2A2;
+    border-radius: 20px;
+}
+
+.Group43 .Beli {
+    width: 55px;
+    height: 20px;
+    left: 83px;
+    top: 280px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group43 .Rectangle44 {
+    width: 207.10px;
+    height: 175.12px;
+    left: 6.59px;
+    top: 9.58px;
+    position: absolute;
+    background: white;
+}
+
+.Group43 .Gambar {
+    left: 73px;
+    top: 85px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group42 {
+    width: 221px;
+    height: 318px;
+    left: 840px;
+    top: 336px;
+    position: absolute;
+    background-color: #d9d9d9
+}
+
+.Group42 .Rectangle17 {
+    width: 221px;
+    height: 318px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #D9D9D9;
+}
+
+.Group42 .Paracetamol10mg {
+    width: 207px;
+    height: 53px;
+    left: 7px;
+    top: 192px;
+    position: absolute;
+    text-align: center;
+    color: #FCFCFC;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group42 .Rp15000 {
+    width: 181.48px;
+    height: 27.88px;
+    left: 19.76px;
+    top: 245.16px;
+    position: absolute;
+    text-align: center;
+    color: #62D2A2;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+.Group42 .Rectangle17 {
+    width: 70.98px;
+    height: 33.98px;
+    left: 74.64px;
+    top: 273.57px;
+    position: absolute;
+    background: #62D2A2;
+    border-radius: 20px;
+}
+
+.Group42 .Beli {
+    width: 55px;
+    height: 20px;
+    left: 83px;
+    top: 280px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group42 .Rectangle44 {
+    width: 207.10px;
+    height: 175.12px;
+    left: 6.59px;
+    top: 9.58px;
+    position: absolute;
+    background: white;
+}
+
+.Group42 .Gambar {
+    left: 73px;
+    top: 85px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group41 {
+    width: 221px;
+    height: 318px;
+    left: 571px;
+    top: 336px;
+    position: absolute;
+    background-color: #d9d9d9
+}
+
+.Group41 .Rectangle17 {
+    width: 221px;
+    height: 318px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #D9D9D9;
+}
+
+.Group41 .Paracetamol10mg {
+    width: 207px;
+    height: 53px;
+    left: 7px;
+    top: 192px;
+    position: absolute;
+    text-align: center;
+    color: #FCFCFC;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group41 .Rp15000 {
+    width: 181.48px;
+    height: 27.88px;
+    left: 19.76px;
+    top: 245.16px;
+    position: absolute;
+    text-align: center;
+    color: #62D2A2;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+.Group41 .Rectangle17 {
+    width: 70.98px;
+    height: 33.98px;
+    left: 74.64px;
+    top: 273.57px;
+    position: absolute;
+    background: #62D2A2;
+    border-radius: 20px;
+}
+
+.Group41 .Beli {
+    width: 55px;
+    height: 20px;
+    left: 83px;
+    top: 280px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group41 .Rectangle44 {
+    width: 207.10px;
+    height: 175.12px;
+    left: 6.59px;
+    top: 9.58px;
+    position: absolute;
+    background: white;
+}
+
+.Group41 .Gambar {
+    left: 73px;
+    top: 85px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group40 {
+    width: 221px;
+    height: 318px;
+    left: 302px;
+    top: 336px;
+    position: absolute;
+    background-color: #d9d9d9
+}
+
+.Group40 .Rectangle17 {
+    width: 221px;
+    height: 318px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #D9D9D9;
+}
+
+.Group40 .Paracetamol10mg {
+    width: 207px;
+    height: 53px;
+    left: 7px;
+    top: 192px;
+    position: absolute;
+    text-align: center;
+    color: #FCFCFC;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group40 .Rp15000 {
+    width: 181.48px;
+    height: 27.88px;
+    left: 19.76px;
+    top: 245.16px;
+    position: absolute;
+    text-align: center;
+    color: #62D2A2;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+.Group40 .Rectangle17 {
+    width: 70.98px;
+    height: 33.98px;
+    left: 74.64px;
+    top: 273.57px;
+    position: absolute;
+    background: #62D2A2;
+    border-radius: 20px;
+}
+
+.Group40 .Beli {
+    width: 55px;
+    height: 20px;
+    left: 83px;
+    top: 280px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group40 .Rectangle44 {
+    width: 207.10px;
+    height: 175.12px;
+    left: 6.59px;
+    top: 9.58px;
+    position: absolute;
+    background: white;
+}
+
+.Group40 .Gambar {
+    left: 73px;
+    top: 85px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group47 {
+    width: 221px;
+    height: 318px;
+    left: 840px;
+    top: 678px;
+    position: absolute;
+    background-color: #d9d9d9
+}
+
+.Group47 .Rectangle17 {
+    width: 221px;
+    height: 318px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #D9D9D9;
+}
+
+.Group47 .Paracetamol10mg {
+    width: 207px;
+    height: 53px;
+    left: 7px;
+    top: 192px;
+    position: absolute;
+    text-align: center;
+    color: #FCFCFC;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group47 .Rp15000 {
+    width: 181.48px;
+    height: 27.88px;
+    left: 19.76px;
+    top: 245.16px;
+    position: absolute;
+    text-align: center;
+    color: #62D2A2;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+.Group47 .Rectangle17 {
+    width: 70.98px;
+    height: 33.98px;
+    left: 74.64px;
+    top: 273.57px;
+    position: absolute;
+    background: #62D2A2;
+    border-radius: 20px;
+}
+
+.Group47 .Beli {
+    width: 55px;
+    height: 20px;
+    left: 83px;
+    top: 280px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group47 .Rectangle44 {
+    width: 207.10px;
+    height: 175.12px;
+    left: 6.59px;
+    top: 9.58px;
+    position: absolute;
+    background: white;
+}
+
+.Group47 .Gambar {
+    left: 73px;
+    top: 85px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group48 {
+    width: 221px;
+    height: 318px;
+    left: 1109px;
+    top: 678px;
+    position: absolute;
+    background-color: #d9d9d9
+}
+
+.Group48 .Rectangle17 {
+    width: 221px;
+    height: 318px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #D9D9D9;
+}
+
+.Group48 .Paracetamol10mg {
+    width: 207px;
+    height: 53px;
+    left: 7px;
+    top: 192px;
+    position: absolute;
+    text-align: center;
+    color: #FCFCFC;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group48 .Rp15000 {
+    width: 181.48px;
+    height: 27.88px;
+    left: 19.76px;
+    top: 245.16px;
+    position: absolute;
+    text-align: center;
+    color: #62D2A2;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+.Group48 .Rectangle17 {
+    width: 70.98px;
+    height: 33.98px;
+    left: 74.64px;
+    top: 273.57px;
+    position: absolute;
+    background: #62D2A2;
+    border-radius: 20px;
+}
+
+.Group48 .Beli {
+    width: 55px;
+    height: 20px;
+    left: 83px;
+    top: 280px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group48 .Rectangle44 {
+    width: 207.10px;
+    height: 175.12px;
+    left: 6.59px;
+    top: 9.58px;
+    position: absolute;
+    background: white;
+}
+
+.Group48 .Gambar {
+    left: 73px;
+    top: 85px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group50 {
+    width: 56px;
+    height: 52px;
+    left: 10px;
+    top: 11px;
+    position: absolute;
+}
+
+.Group50 .Rectangle45 {
+    width: 56px;
+    height: 52px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: white;
+    border-radius: 20px;
+}
+
+.Group50 .kembali {
+    left: 15px;
+    top: 4px;
+    position: absolute;
+    text-align: center;
+    color: #62D2A2;
+    font-size: 36px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}

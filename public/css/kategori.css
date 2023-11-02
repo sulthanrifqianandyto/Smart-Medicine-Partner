@@ -1,0 +1,524 @@
+.Kategori{
+    width: 1363px; 
+    height: 1024px; 
+    position: relative; 
+    background: #FCFCFC
+}
+
+.Rectangle14{
+    width: 1363px; 
+    height: 157px; 
+    left: 0px; 
+    top: -30px; 
+    position: absolute; 
+    background: #1FAB89
+}
+
+.MedicinePartner{
+    left: 162px; 
+    top: 37px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 24px; 
+    font-family: Inter; 
+    font-weight: 700; 
+    word-wrap: break-word
+}
+
+.Rectangle15{
+    width: 779px; 
+    height: 59px; 
+    left: 292px; 
+    top: 37px; 
+    position: absolute; 
+    background: #FCFCFC
+}
+
+.Group33{
+    width: 73px; 
+    height: 45px; 
+    left: 985px; 
+    top: 44px; 
+    position: absolute
+}
+
+.Group33 .Rectangle16{
+    width: 73px; 
+    height: 45px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: #1FAB89
+}
+
+.pencarian{
+    width: 38px; 
+    height: 38px; 
+    left: 18px; 
+    top: 3px; 
+    position: absolute
+}
+
+.x{
+    left: 98px; 
+    top: 1px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 96px; 
+    font-family: Inter; 
+    font-weight: 700; 
+    word-wrap: break-word
+}
+
+.Group34{
+    width: 616px; 
+    height: 176px; 
+    left: 44px; 
+    top: 161px; 
+    position: absolute
+}
+
+.Group34 .Rectangle17{
+    width: 616px; 
+    height: 176px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: #62D2A2; 
+    border-radius: 20px
+}
+
+.Group34 .Demam{
+    width: 290px; 
+    height: 43.13px; 
+    left: 163px; 
+    top: 63px; 
+    position: absolute; 
+    text-align: center; 
+    color: #FCFCFC; 
+    font-size: 36px; 
+    font-family: Inter; 
+    font-weight: 700; 
+    word-wrap: break-word
+}
+
+.Group34 .Pngegg1{
+    width: 142px; 
+    height: 143px; 
+    left: 12px; 
+    top: 17px; 
+    position: absolute
+}
+
+.Group34 .Group51{
+    width: 124px; 
+    height: 50px; 
+    left: 482px; 
+    top: 116px; 
+    position: absolute
+}
+
+.Group34 .Group51 .Rectangle17{
+    width: 124px; 
+    height: 50px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: white; 
+    border-radius: 20px
+}
+
+.Group34 .Group51 .icon{
+    left: 50px; 
+    top: 3px; 
+    position: absolute; 
+    text-align: center; 
+    color: #62D2A2; 
+    font-size: 36px; 
+    font-family: Inter; 
+    font-weight: 500; 
+    word-wrap: break-word
+}
+
+.shop{
+    height: 50px; 
+    left: 1166px; 
+    top: 44px; 
+    position: absolute; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex
+}
+
+.home{
+    width: 59px; 
+    height: 59px; 
+    left: 1082px; 
+    top: 38px; 
+    position: absolute
+}
+
+.L{
+    left: 1145px; 
+    top: 22px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 70px; 
+    font-family: Roboto; 
+    font-weight: 300; 
+    word-wrap: break-word
+}
+
+.Group35{
+    width: 616px; 
+    height: 176px; 
+    left: 705px; 
+    top: 161px; 
+    position: absolute
+}
+
+.Group35 .Rectangle17{
+    width: 616px; 
+    height: 176px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: #62D2A2; 
+    border-radius: 20px
+}
+
+.Group35 .FluBatuk{
+    width: 290px; 
+    height: 43.13px; 
+    left: 163px; 
+    top: 63px; 
+    position: absolute; 
+    text-align: center; 
+    color: #FCFCFC; 
+    font-size: 36px; 
+    font-family: Inter; 
+    font-weight: 700; 
+    word-wrap: break-word
+}
+
+.Group35 .Pngegg3{
+    width: 142px; 
+    height: 143px; 
+    left: 12px; 
+    top: 17px; 
+    position: absolute
+}
+
+.Group35 .Group51{
+    width: 124px; 
+    height: 50px; 
+    left: 482px; 
+    top: 116px; 
+    position: absolute
+}
+
+.Group35 .Group51 .Rectangle17{
+    width: 124px; 
+    height: 50px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: white; 
+    border-radius: 20px
+}
+
+.Group35 .Group51 .icon{
+    left: 50px; 
+    top: 3px; 
+    position: absolute; 
+    text-align: center; 
+    color: #62D2A2; 
+    font-size: 36px; 
+    font-family: Inter; 
+    font-weight: 500; 
+    word-wrap: break-word
+}
+
+.Group36 {
+    width: 616px;
+    height: 176px;
+    left: 44px;
+    top: 371px;
+    position: absolute;
+}
+
+.Group36 .Rectangle17 {
+    width: 616px;
+    height: 176px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #62D2A2;
+    border-radius: 20px;
+}
+
+.Group36 .PusingSakitKepala {
+    width: 290px;
+    height: 80px;
+    left: 177px;
+    top: 48px;
+    position: absolute;
+    text-align: center;
+    color: #FCFCFC;
+    font-size: 36px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group36 .Pngegg4 {
+    width: 142px;
+    height: 143px;
+    left: 12px;
+    top: 17px;
+    position: absolute;
+}
+
+.Group36 .Group51 {
+    width: 124px;
+    height: 50px;
+    left: 482px;
+    top: 116px;
+    position: absolute;
+}
+
+.Group36 .Group51 .Rectangle17 {
+    width: 124px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: white;
+    border-radius: 20px;
+}
+
+.Group36 .Group51 .icon{
+    left: 50px;
+    top: 3px;
+    position: absolute;
+    text-align: center;
+    color: #62D2A2;
+    font-size: 36px;
+    font-family: Inter;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+.Group37 {
+    width: 614px;
+    height: 176px;
+    left: 705px;
+    top: 371px;
+    position: absolute;
+}
+
+.Group37 .Rectangle17 {
+    width: 614px;
+    height: 176px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #62D2A2;
+    border-radius: 20px;
+}
+
+.Group37 .Diare {
+    width: 289.06px;
+    height: 43.13px;
+    left: 162.47px;
+    top: 63px;
+    position: absolute;
+    text-align: center;
+    color: #FCFCFC;
+    font-size: 36px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group37 .Pngegg5 {
+    width: 141.54px;
+    height: 143px;
+    left: 11.96px;
+    top: 17px;
+    position: absolute;
+}
+
+.Group37 .Group51 {
+    width: 123.60px;
+    height: 50px;
+    left: 480.44px;
+    top: 116px;
+    position: absolute;
+}
+
+.Group37 .Group51 .Rectangle17 {
+    width: 123.60px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: white;
+    border-radius: 20px;
+}
+
+.Group37 .Group51 .icon{
+    width: 23.92px;
+    left: 49.84px;
+    top: 3px;
+    position: absolute;
+    text-align: center;
+    color: #62D2A2;
+    font-size: 36px;
+    font-family: Inter;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+.Group38 {
+    width: 616px;
+    height: 176px;
+    left: 44px;
+    top: 581px;
+    position: absolute;
+}
+
+.Group38 .Rectangle17 {
+    width: 616px;
+    height: 176px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #62D2A2;
+    border-radius: 20px;
+}
+
+.Group38 .SesakNafas {
+    width: 290px;
+    height: 43.13px;
+    left: 177px;
+    top: 66px;
+    position: absolute;
+    text-align: center;
+    color: #FCFCFC;
+    font-size: 36px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group38 .Pngegg6 {
+    width: 142px;
+    height: 143px;
+    left: 12px;
+    top: 17px;
+    position: absolute;
+}
+
+.Group38 .Group51 {
+    width: 124px;
+    height: 50px;
+    left: 482px;
+    top: 116px;
+    position: absolute;
+}
+
+.Group38 .Group51 .Rectangle17 {
+    width: 124px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: white;
+    border-radius: 20px;
+}
+
+.Group38 .Group51 .icon{
+    left: 50px;
+    top: 3px;
+    position: absolute;
+    text-align: center;
+    color: #62D2A2;
+    font-size: 36px;
+    font-family: Inter;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+.Group39 {
+    width: 616px;
+    height: 176px;
+    left: 705px;
+    top: 581px;
+    position: absolute;
+}
+
+.Group39 .Rectangle17 {
+    width: 616px;
+    height: 176px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #62D2A2;
+    border-radius: 20px;
+}
+
+.Group39 .Lainnya {
+    width: 290px;
+    height: 43.13px;
+    left: 163px;
+    top: 63px;
+    position: absolute;
+    text-align: center;
+    color: #FCFCFC;
+    font-size: 36px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Group39 .Pngegg7{
+    width: 142px;
+    height: 143px;
+    left: 12px;
+    top: 17px;
+    position: absolute;
+}
+
+.Group39 .Group51 {
+    width: 124px;
+    height: 50px;
+    left: 482px;
+    top: 116px;
+    position: absolute;
+}
+
+.Group39 .Group51 .Rectangle17 {
+    width: 124px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: white;
+    border-radius: 20px;
+}
+
+.Group39 .Group51 .icon {
+    left: 50px;
+    top: 3px;
+    position: absolute;
+    text-align: center;
+    color: #62D2A2;
+    font-size: 36px;
+    font-family: Inter;
+    font-weight: 500;
+    word-wrap: break-word;
+}

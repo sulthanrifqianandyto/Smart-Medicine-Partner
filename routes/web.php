@@ -57,10 +57,42 @@ Route::get('/tambahobat', function () {
     return view('tambahobat');
 });
 
-Route::get('ubahprofilapotek', function () {
+Route::get('/ubahprofilapotek', function () {
     return view('ubahprofilapotek');
 });
 
 Route::get('ubahprofiluser', function () {
     return view('ubahprofiluser');
+});
+
+Route::get('daftar_apotek', function () {
+    return view('daftar_apotek');
+});
+
+Route::get('/kategori', function () {
+    return view('kategori');
+});
+
+Route::get('kategori_demam', function () {
+    return view('kategori_demam');
+});
+
+Route::get('kategori_diare', function () {
+    return view('kategori_diare');
+});
+
+Route::get('kategori_flu_dan_batuk', function () {
+    return view('kategori_flu_dan_batuk');
+});
+
+Route::get('kategori_lainnya', function () {
+    return view('kategori_lainnya');
+});
+
+Route::get('kategori_pusing', function () {
+    return view('kategori_pusing');
+});
+
+Route::get('kategori_sesak_nafas', function () {
+    return view('kategori_sesak_nafas');
 });
