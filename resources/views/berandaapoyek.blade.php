@@ -8,8 +8,7 @@
 </head>
 
 <body>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=<div class=" ProfileApotek"
+    <div class=" ProfileApotek"
         style="width: 1363px; height: 1024px; position: relative; background: #FCFCFC">
     <div class="Rectangle14"
         style="width: 1363px; height: 78px; left: 0px; top: 0px; position: absolute; background: #1FAB89"></div>

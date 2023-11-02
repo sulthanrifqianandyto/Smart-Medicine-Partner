@@ -96,3 +96,15 @@ Route::get('kategori_pusing', function () {
 Route::get('kategori_sesak_nafas', function () {
     return view('kategori_sesak_nafas');
 });
+
+Route::get('/detailobat', function () {
+    return view('detailobat');
+});
+
+Route::get('/regis', function () {
+    return view('regis');
+});
+
+Route::get('/login', function () {
+    return view('login');
+});
