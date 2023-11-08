@@ -13,16 +13,15 @@
             style="width: 213px; height: 841px; left: 0px; top: 78px; position: absolute; background: #62D2A2"></div>
         <div class="dasbor"
             style="width: 30px; height: 29px; padding-top: 1.21px; padding-bottom: 2.38px; padding-left: 1.25px; padding-right: 1.25px; left: 24px; top: 90px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
-            <img class="dasbor1" style="width: 27.50px; height: 25.41px" src="img/dasbor.png"></img>
+            <img class="dasbor1" style="width: 27.50px; height: 25.41px" src="img/dasbor.png"/>
         </div>
         <div class="profil"
             style="width: 30px; height: 29px; padding-top: 3.62px; padding-bottom: 3.62px; padding-left: 3.75px; padding-right: 2.51px; left: 24px; top: 125px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
-            <img class="profil1" style="width: 30px; height: 25px" src="img/propil.png"></img>
+            <img class="profil1" style="width: 30px; height: 25px" src="img/propil.png"/>
         </div>
         <div class="Group" style="width: 25px; height: 24.17px; left: 26px; top: 170px; position: absolute">
             <img class="data" style="width: 25px; height: 24.17px; left: 0px; top: 0px; position: absolute"
-                src="img/data.png">
-            </img>
+                src="img/data.png"/>
         </div>
         <div class="Dashboard"
             style="left: 64px; top: 90px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">
@@ -47,12 +46,12 @@
         <div class="Dashboard"
             style="left: 226px; top: 20px; position: absolute; text-align: center; color: white; font-size: 32px; font-family: Inter; font-weight: 500; word-wrap: break-word">
             Dashboard</div>
-        <div class="L"
+        <div class="|"
             style="left: 208px; top: 1px; position: absolute; text-align: center; color: white; font-size: 64px; font-family: Inter; font-weight: 200; word-wrap: break-word">
-            l</div>
+            |</div>
         <div class="Pesanan2"
             style="width: 24px; height: 29px; padding-left: 1.08px; padding-right: 1.08px; padding-top: 1.04px; padding-bottom: 1.04px; left: 27px; top: 207px; position: absolute; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
-            <img class="pesanan1" style="width: 21.83px; height: 26.93px" src="img/pesan.png"></img>
+            <img class="pesanan1" style="width: 21.83px; height: 26.93px" src="img/pesan.png"/>
         </div>
     </div>
     <div class="Group34" style="width: 350px; height: 334px; left: 310px; top: 119px; position: absolute">

@@ -64,8 +64,7 @@
         <div class="IcSharpShoppingCart"
             style="height: 57px; padding-top: 4.75px; padding-bottom: 4.75px; padding-left: 2.38px; padding-right: 5.46px; left: 1084px; top: 39px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
             <img class="Vector" style="width: 57px; height: 57px"
-                src="img/keranjang.png">
-            </img>
+                src="img/keranjang.png"/>
         </div>
         <div class="L"
             style="left: 1147px; top: 8px; position: absolute; text-align: center; color: white; font-size: 96px; font-family: Inter; font-weight: 100; word-wrap: break-word">

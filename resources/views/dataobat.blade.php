@@ -20,9 +20,9 @@
         <div class="DataObat"
             style="left: 228px; top: 20px; position: absolute; text-align: center; color: white; font-size: 32px; font-family: Inter; font-weight: 500; word-wrap: break-word">
             Data Obat</div>
-        <div class="L"
+        <div class="|"
             style="left: 208px; top: 1px; position: absolute; text-align: center; color: white; font-size: 64px; font-family: Inter; font-weight: 200; word-wrap: break-word">
-            l</div>
+            |</div>
         <div class="Rectangle21"
             style="width: 1120px; height: 679px; left: 223px; top: 188px; position: absolute; background: #D9D9D9">
         </div>
@@ -64,11 +64,11 @@
             5</div>
         <div class="hapus"
             style="width: 33px; padding-top: 2.71px; padding-bottom: 4.25px; padding-left: 8.25px; padding-right: 4.99px; left: 1243px; top: 196px; position: absolute; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
-            <img class="hapus1" style="width: 19.76px; height: 27.04px" src="img/delet.png"></img>
+            <img class="hapus1" style="width: 19.76px; height: 27.04px" src="img/delet.png"/>
         </div>
         <div class="edit"
             style="width: 29px; height: 29px; padding-left: 4.83px; padding-right: 4.83px; padding-top: 2.42px; padding-bottom: 2.42px; left: 1285px; top: 197px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
-            <img class="edit1" style="width: 19.33px; height: 24.17px" src="img/edit.png"></img>
+            <img class="edit1" style="width: 19.33px; height: 24.17px" src="img/edit.png"/>
         </div>
         <div class="Rectangle67"
             style="width: 186px; height: 39px; left: 1157px; top: 87px; position: absolute; background: #62D2A2; border: 2px #1FAB89 solid">
@@ -82,16 +82,15 @@
             style="width: 213px; height: 841px; left: 0px; top: 78px; position: absolute; background: #62D2A2"></div>
         <div class="dasbor"
             style="width: 30px; height: 29px; padding-top: 1.21px; padding-bottom: 2.38px; padding-left: 1.25px; padding-right: 1.25px; left: 24px; top: 90px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
-            <img class="dasbor1" style="width: 27.50px; height: 25.41px" src="img/dasbor.png"></img>
+            <img class="dasbor1" style="width: 27.50px; height: 25.41px" src="img/dasbor.png"/>
         </div>
         <div class="profil"
             style="width: 30px; height: 29px; padding-top: 3.62px; padding-bottom: 3.62px; padding-left: 3.75px; padding-right: 2.51px; left: 24px; top: 125px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
-            <img class="profil1" style="width: 30px; height: 25px" src="img/propil.png"></img>
+            <img class="profil1" style="width: 30px; height: 25px" src="img/propil.png"/>
         </div>
         <div class="Group" style="width: 25px; height: 24.17px; left: 26px; top: 170px; position: absolute">
             <img class="data"
-                style="width: 25px; height: 24.17px; left: 0px; top: 0px; position: absolute" src="img/data.png">
-            </img>
+                style="width: 25px; height: 24.17px; left: 0px; top: 0px; position: absolute" src="img/data.png"/>
         </div>
         <div class="Dashboard"
             style="left: 64px; top: 90px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">
@@ -107,7 +106,7 @@
             Pesanan</div>
         <div class="Pesanan2"
             style="width: 24px; height: 29px; padding-left: 1.08px; padding-right: 1.08px; padding-top: 1.04px; padding-bottom: 1.04px; left: 27px; top: 207px; position: absolute; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
-            <img class="pesanan1" style="width: 21.83px; height: 26.93px" src="img/pesan.png"></img>
+            <img class="pesanan1" style="width: 21.83px; height: 26.93px" src="img/pesan.png"/>
         </div>
     </div>
 </body>
