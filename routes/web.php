@@ -89,8 +89,8 @@ Route::get('kategori_lainnya', function () {
     return view('kategori_lainnya');
 });
 
-Route::get('kategori_pusing', function () {
-    return view('kategori_pusing');
+Route::get('kategori_pusing_dan_sakit_kepala', function () {
+    return view('kategori_pusing_dan_sakit_kepala');
 });
 
 Route::get('kategori_sesak_nafas', function () {
@@ -107,8 +107,4 @@ Route::get('/regis', function () {
 
 Route::get('/login', function () {
     return view('login');
-});
-
-Route::get('/home', function () {
-    return view('home');
 });

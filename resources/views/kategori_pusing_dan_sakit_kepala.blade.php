@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>KATEGORI PUSING </title>
+  <title>KATEGORI PUSING & SAKIT KEPALA</title>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A500%2C700"/>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A500%2C700"/>
   <link rel="stylesheet" href="css/kategori_pusing.css">
@@ -13,15 +13,17 @@
     <div class="plus">+</div>
     <div class="Group39">
       <div class="Rectangle17"></div>
-      <div class="pusing">PUSING</div>
+      <div class="pusing">PUSING & SAKIT KEPALA</div>
       <img class="Pngegg1" src="img/pngegg.png" />
     </div>
     <div class="Group35">
       <div class="Rectangle17"></div>
       <div class="Paracetamol10mg">Paracetamol 10mg</div>
       <div class="Rp15000">Rp 15.000</div>
+      <a href="http://127.0.0.1:8000/detailobat">
       <div class="Rectangle17"></div>
       <div class="Beli">BELI</div>
+      </a>
       <div class="Rectangle44"></div>
       <div class="Gambar">gambar</div>
     </div>
@@ -29,8 +31,10 @@
       <div class="Rectangle17"></div>
       <div class="Paracetamol10mg">Paracetamol 10mg</div>
       <div class="Rp15000">Rp 15.000</div>
+      <a href="http://127.0.0.1:8000/detailobat">
       <div class="Rectangle17"></div>
       <div class="Beli">BELI</div>
+      </a>
       <div class="Rectangle44"></div>
       <div class="Gambar">gambar</div>
     </div>
@@ -38,8 +42,10 @@
       <div class="Rectangle17"></div>
       <div class="Paracetamol10mg">Paracetamol 10mg</div>
       <div class="Rp15000">Rp 15.000</div>
+      <a href="http://127.0.0.1:8000/detailobat">
       <div class="Rectangle17"></div>
       <div class="Beli">BELI</div>
+      </a>
       <div class="Rectangle44"></div>
       <div class="Gambar">gambar</div>
     </div>
@@ -47,8 +53,10 @@
       <div class="Rectangle17"></div>
       <div class="Paracetamol10mg">Paracetamol 10mg</div>
       <div class="Rp15000">Rp 15.000</div>
+      <a href="http://127.0.0.1:8000/detailobat">
       <div class="Rectangle17"></div>
       <div class="Beli">BELI</div>
+      </a>
       <div class="Rectangle44"></div>
       <div class="Gambar">gambar</div>
     </div>
@@ -56,8 +64,10 @@
       <div class="Rectangle17"></div>
       <div class="Paracetamol10mg">Paracetamol 10mg</div>
       <div class="Rp15000">Rp 15.000</div>
+      <a href="http://127.0.0.1:8000/detailobat">
       <div class="Rectangle17"></div>
       <div class="Beli">BELI</div>
+      </a>
       <div class="Rectangle44"></div>
       <div class="Gambar">gambar</div>
     </div>
@@ -65,8 +75,10 @@
       <div class="Rectangle17"></div>
       <div class="Paracetamol10mg">Paracetamol 10mg</div>
       <div class="Rp15000">Rp 15.000</div>
+      <a href="http://127.0.0.1:8000/detailobat">
       <div class="Rectangle17"></div>
       <div class="Beli">BELI</div>
+      </a>
       <div class="Rectangle44"></div>
       <div class="Gambar">gambar</div>
     </div>
@@ -74,8 +86,10 @@
       <div class="Rectangle17"></div>
       <div class="Paracetamol10mg">Paracetamol 10mg</div>
       <div class="Rp15000">Rp 15.000</div>
+      <a href="http://127.0.0.1:8000/detailobat">
       <div class="Rectangle17"></div>
       <div class="Beli">BELI</div>
+      </a>
       <div class="Rectangle44"></div>
       <div class="Gambar">gambar</div>
     </div>
@@ -83,8 +97,10 @@
       <div class="Rectangle17"></div>
       <div class="Paracetamol10mg">Paracetamol 10mg</div>
       <div class="Rp15000">Rp 15.000</div>
+      <a href="http://127.0.0.1:8000/detailobat">
       <div class="Rectangle17"></div>
       <div class="Beli">BELI</div>
+      </a>
       <div class="Rectangle44"></div>
       <div class="Gambar">gambar</div>
     </div>
@@ -92,8 +108,10 @@
       <div class="Rectangle17"></div>
       <div class="Paracetamol10mg">Paracetamol 10mg</div>
       <div class="Rp15000">Rp 15.000</div>
+      <a href="http://127.0.0.1:8000/detailobat">
       <div class="Rectangle17"></div>
       <div class="Beli">BELI</div>
+      </a>
       <div class="Rectangle44"></div>
       <div class="Gambar">gambar</div>
     </div>
@@ -101,15 +119,19 @@
       <div class="Rectangle17"></div>
       <div class="Paracetamol10mg">Paracetamol 10mg</div>
       <div class="Rp15000">Rp 15.000</div>
+      <a href="http://127.0.0.1:8000/detailobat">
       <div class="Rectangle17"></div>
       <div class="Beli">BELI</div>
+      </a>
       <div class="Rectangle44"></div>
       <div class="Gambar">gambar</div>
     </div>
     <div class="Group50">
+      <a href="http://127.0.0.1:8000/kategori">
       <div class="Rectangle45"></div>
       <div class="kembali"><</div>
     </div>
+      </a>
   </div>
 </body>
 </html>

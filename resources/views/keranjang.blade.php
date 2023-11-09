@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Keranjang</title>
 </head>
-
 <body>
     <div class="Keranjang" style="width: 1363px; height: 1024px; position: relative; background: white">
         <div class="Rectangle21"
