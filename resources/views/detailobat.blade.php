@@ -33,6 +33,7 @@
             style="left: 583px; top: -22px; position: absolute; text-align: center; color: white; font-size: 96px; font-family: Inter; font-weight: 700; word-wrap: break-word">
             +</div>
         <div class="Group50" style="width: 56px; height: 52px; left: 10px; top: 10px; position: absolute">
+            <a href="http://127.0.0.1:8000/kategori_demam">
             <div class="Rectangle45"
                 style="width: 56px; height: 52px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 20px">
             </div>
@@ -40,6 +41,7 @@
                 style="left: 15px; top: 4px; position: absolute; text-align: center; color: #62D2A2; font-size: 36px; font-family: Inter; font-weight: 500; word-wrap: break-word">
                 <
             </div>
+            </a>
             <div class="Rectangle22"
                 style="width: 647px; height: 141px; left: 658px; top: 222px; position: absolute; background: #D9D9D9">
             </div>
@@ -59,6 +61,7 @@
                 style="width: 42px; height: 36px; left: 1069px; top: 314px; position: absolute; background: white; border: 2px #1FAB89 solid">
             </div>
             <div class="Group52" style="width: 121.63px; height: 38px; left: 1154px; top: 314px; position: absolute">
+                <a href="http://127.0.0.1:8000/keranjang">
                 <div class="Rectangle17"
                     style="width: 121.63px; height: 38px; left: 0px; top: 0px; position: absolute; background: #62D2A2; border-radius: 20px">
                 </div>
@@ -66,6 +69,7 @@
                     style="width: 94.24px; height: 22.37px; left: 14.32px; top: 7.19px; position: absolute; text-align: center; color: white; font-size: 20px; font-family: Inter; font-weight: 500; word-wrap: break-word">
                     BELI</div>
             </div>
+            </a>
             <div
                 style="width: 15px; height: 38px; left: 874px; top: 301px; position: absolute; text-align: center; color: black; font-size: 50px; font-family: Roboto; font-weight: 300; word-wrap: break-word">
                 -</div>
@@ -83,12 +87,14 @@
             <div class="Apotek1"
                 style="width: max-content; left: 861px; top: 409px; position: absolute; text-align: center; color: black; font-size: 36px; font-family: Inter; font-weight: 300; word-wrap: break-word">
                 Apotek 1</div>
+                <a href="http://127.0.0.1:8000/daftar_apotek">
             <div class="Rectangle51"
                 style="width: 209px; height: 56px; left: 1082px; top: 477px; position: absolute; background: white; border: 2px #1FAB89 solid">
             </div>
             <div class="KunjungiToko"
                 style="width: max-content;left: 1093px; top: 486px; position: absolute; text-align: center; color: black; font-size: 32px; font-family: Roboto; font-weight: 200; word-wrap: break-word">
                 kunjungi toko</div>
+            </a>
             <div class="Stok"
                 style="left: 132px; top: 720px; position: absolute; text-align: center; color: black; font-size: 32px; font-family: Roboto; font-weight: 200; word-wrap: break-word">
                 Stok</div>

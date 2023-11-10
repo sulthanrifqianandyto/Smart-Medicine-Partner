@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="Login" style="width: 1363px; height: 1024px; position: relative; background: white">
-        <div class="Rectangle7" style="width: 628px; height: 411px; left: 368px; top: 217px; position: absolute; background: rgba(217, 217, 217, 0.80); border-radius: 10px"></div>
+        <input type="text" class="Rectangle7" style="width: 628px; height: 411px; left: 368px; top: 217px; position: absolute; background: rgba(217, 217, 217, 0.80); border-radius: 10px"></>
         <div class="Login" style="left: 603px; top: 229px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.80); font-size: 64px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Login</div>
         <div class="Rectangle7" style="width: 308px; height: 42px; left: 622px; top: 342px; position: absolute; background: white; border-radius: 10px"></div>
         <div class="Rectangle7" style="width: 111px; height: 42px; left: 626px; top: 484px; position: absolute; background: #1FAB89; border-radius: 10px"></div>

@@ -18,6 +18,7 @@
             style="left: 583px; top: -22px; position: absolute; text-align: center; color: white; font-size: 96px; font-family: Inter; font-weight: 700; word-wrap: break-word">
             +</div>
         <div class="Group50" style="width: 56px; height: 52px; left: 10px; top: 10px; position: absolute">
+            <a href="http://127.0.0.1:8000/detailobat">
             <div class="Rectangle45"
                 style="width: 56px; height: 52px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 20px">
             </div>
@@ -25,6 +26,7 @@
                 style="left: 15px; top: 4px; position: absolute; text-align: center; color: #62D2A2; font-size: 36px; font-family: Inter; font-weight: 500; word-wrap: break-word">
                 <
             </div>
+        </a>
             <div class="Paracetamol10mg"
                 style="width: 214px; height: 32px; left: 90px; top: 203px; position: absolute; text-align: center; color: black; font-size: 25px; font-family: Roboto; font-weight: 300; word-wrap: break-word">
                 Paracetamol 10mg</div>
@@ -35,6 +37,7 @@
                 style="left: 628px; top: 205px; position: absolute; text-align: center; color: black; font-size: 25px; font-family: Roboto; font-weight: 300; word-wrap: break-word">
                 Rp15.000</div>
             <div class="Group52" style="width: 122px; height: 38px; left: 1201px; top: 202px; position: absolute">
+                <a href="http://127.0.0.1:8000/detailobat">
                 <div class="Rectangle17"
                     style="width: 122px; height: 38px; left: 0px; top: 0px; position: absolute; background: #62D2A2; border-radius: 20px">
                 </div>
@@ -42,6 +45,7 @@
                     style="width: 108.33px; height: 23px; left: 7.02px; top: 8px; position: absolute; text-align: center; color: white; font-size: 20px; font-family: Inter; font-weight: 500; word-wrap: break-word">
                     BATALKAN</div>
             </div>
+        </a>
             <div class="Rectangle22"
                 style="width: 1318px; height: 75px; left: 23px; top: 90px; position: absolute; background: #D9D9D9">
             </div>
@@ -76,6 +80,7 @@
                 style="left: 984px; top: 281px; position: absolute; text-align: center; color: black; font-size: 25px; font-family: Roboto; font-weight: 300; word-wrap: break-word">
                 Rp30.000</div>
             <div class="Group53" style="width: 171px; height: 38px; left: 1164px; top: 272px; position: absolute">
+                <a href="http://127.0.0.1:8000/pesanan">
                 <div class="Rectangle17"
                     style="width: 171px; height: 38px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 20px">
                 </div>
@@ -83,6 +88,7 @@
                     style="left: 9px; top: 7px; position: absolute; text-align: center; color: #1FAB89; font-size: 20px; font-family: Inter; font-weight: 500; word-wrap: break-word">
                     BUAT PESANAN</div>
             </div>
+            </a>
         </div>
 </body>
 

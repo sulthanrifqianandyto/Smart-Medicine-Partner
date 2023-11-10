@@ -20,12 +20,14 @@
             style="left: 583px; top: -22px; position: absolute; text-align: center; color: white; font-size: 96px; font-family: Inter; font-weight: 700; word-wrap: break-word">
             +</div>
         <div class="Group50" style="width: 56px; height: 52px; left: 10px; top: 10px; position: absolute">
+            <a href="http://127.0.0.1:8000/home">
             <div class="Rectangle45"
                 style="width: 56px; height: 52px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 20px">
             </div>
             <div
                 style="left: 15px; top: 4px; position: absolute; text-align: center; color: #62D2A2; font-size: 36px; font-family: Inter; font-weight: 500; word-wrap: break-word">
                 < </div>
+        </a>
                     <div class="Paracetamol10mg"
                         style="width: 214px; height: 32px; left: 51px; top: 206px; position: absolute; text-align: center; color: black; font-size: 25px; font-family: Roboto; font-weight: 300; word-wrap: break-word">
                         Paracetamol 10mg</div>

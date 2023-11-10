@@ -42,12 +42,14 @@
         <div class="Rp15000"
             style="width: 181.48px; height: 27.88px; left: 19.76px; top: 245.16px; position: absolute; text-align: center; color: #62D2A2; font-size: 24px; font-family: Inter; font-weight: 500; word-wrap: break-word">
             Rp 15.000</div>
+            <a href="http://127.0.0.1:8000/detailobat">
         <div class="Rectangle17"
             style="width: 70.98px; height: 33.98px; left: 74.64px; top: 273.57px; position: absolute; background: #62D2A2; border-radius: 20px">
         </div>
         <div class="Beli"
             style="width: 55px; height: 20px; left: 83px; top: 280px; position: absolute; text-align: center; color: white; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">
             BELI</div>
+    </a>
         <div class="Rectangle44"
             style="width: 207.10px; height: 175.12px; left: 6.59px; top: 9.58px; position: absolute; background: white">
         </div>
@@ -64,12 +66,14 @@
         <div class="Rp15000"
             style="width: 181.48px; height: 27.88px; left: 19.76px; top: 245.16px; position: absolute; text-align: center; color: #62D2A2; font-size: 24px; font-family: Inter; font-weight: 500; word-wrap: break-word">
             Rp 15.000</div>
+            <a href="http://127.0.0.1:8000/detailobat">
         <div class="Rectangle17"
             style="width: 70.98px; height: 33.98px; left: 74.64px; top: 273.57px; position: absolute; background: #62D2A2; border-radius: 20px">
         </div>
         <div class="Beli"
             style="width: 55px; height: 20px; left: 83px; top: 280px; position: absolute; text-align: center; color: white; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">
             BELI</div>
+    </a>
         <div class="Rectangle44"
             style="width: 207.10px; height: 175.12px; left: 6.59px; top: 9.58px; position: absolute; background: white">
         </div>
@@ -86,12 +90,14 @@
         <div class="Rp15000"
             style="width: 181.48px; height: 27.88px; left: 19.76px; top: 245.16px; position: absolute; text-align: center; color: #62D2A2; font-size: 24px; font-family: Inter; font-weight: 500; word-wrap: break-word">
             Rp 15.000</div>
+            <a href="http://127.0.0.1:8000/detailobat">
         <div class="Rectangle17"
             style="width: 70.98px; height: 33.98px; left: 74.64px; top: 273.57px; position: absolute; background: #62D2A2; border-radius: 20px">
         </div>
         <div class="Beli"
             style="width: 55px; height: 20px; left: 83px; top: 280px; position: absolute; text-align: center; color: white; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">
             BELI</div>
+    </a>
         <div class="Rectangle44"
             style="width: 207.10px; height: 175.12px; left: 6.59px; top: 9.58px; position: absolute; background: white">
         </div>
@@ -108,12 +114,14 @@
         <div class="Rp15000"
             style="width: 181.48px; height: 27.88px; left: 19.76px; top: 245.16px; position: absolute; text-align: center; color: #62D2A2; font-size: 24px; font-family: Inter; font-weight: 500; word-wrap: break-word">
             Rp 15.000</div>
+            <a href="http://127.0.0.1:8000/detailobat">
         <div class="Rectangle17"
             style="width: 70.98px; height: 33.98px; left: 74.64px; top: 273.57px; position: absolute; background: #62D2A2; border-radius: 20px">
         </div>
         <div class="Beli"
             style="width: 55px; height: 20px; left: 83px; top: 280px; position: absolute; text-align: center; color: white; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">
             BELI</div>
+    </a>
         <div class="Rectangle44"
             style="width: 207.10px; height: 175.12px; left: 6.59px; top: 9.58px; position: absolute; background: white">
         </div>
@@ -130,12 +138,14 @@
         <div class="Rp15000"
             style="width: 181.48px; height: 27.88px; left: 19.76px; top: 245.16px; position: absolute; text-align: center; color: #62D2A2; font-size: 24px; font-family: Inter; font-weight: 500; word-wrap: break-word">
             Rp 15.000</div>
+            <a href="http://127.0.0.1:8000/detailobat">
         <div class="Rectangle17"
             style="width: 70.98px; height: 33.98px; left: 74.64px; top: 273.57px; position: absolute; background: #62D2A2; border-radius: 20px">
         </div>
         <div class="Beli"
             style="width: 55px; height: 20px; left: 83px; top: 280px; position: absolute; text-align: center; color: white; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">
             BELI</div>
+    </a>
         <div class="Rectangle44"
             style="width: 207.10px; height: 175.12px; left: 6.59px; top: 9.58px; position: absolute; background: white">
         </div>
@@ -152,12 +162,14 @@
         <div class="Rp15000"
             style="width: 181.48px; height: 27.88px; left: 19.76px; top: 245.16px; position: absolute; text-align: center; color: #62D2A2; font-size: 24px; font-family: Inter; font-weight: 500; word-wrap: break-word">
             Rp 15.000</div>
+            <a href="http://127.0.0.1:8000/detailobat">
         <div class="Rectangle17"
             style="width: 70.98px; height: 33.98px; left: 74.64px; top: 273.57px; position: absolute; background: #62D2A2; border-radius: 20px">
         </div>
         <div class="Beli"
             style="width: 55px; height: 20px; left: 83px; top: 280px; position: absolute; text-align: center; color: white; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">
             BELI</div>
+    </a>
         <div class="Rectangle44"
             style="width: 207.10px; height: 175.12px; left: 6.59px; top: 9.58px; position: absolute; background: white">
         </div>
@@ -174,12 +186,14 @@
         <div class="Rp15000"
             style="width: 181.48px; height: 27.88px; left: 19.76px; top: 245.16px; position: absolute; text-align: center; color: #62D2A2; font-size: 24px; font-family: Inter; font-weight: 500; word-wrap: break-word">
             Rp 15.000</div>
+            <a href="http://127.0.0.1:8000/detailobat">
         <div class="Rectangle17"
             style="width: 70.98px; height: 33.98px; left: 74.64px; top: 273.57px; position: absolute; background: #62D2A2; border-radius: 20px">
         </div>
         <div class="Beli"
             style="width: 55px; height: 20px; left: 83px; top: 280px; position: absolute; text-align: center; color: white; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">
             BELI</div>
+    </a>
         <div class="Rectangle44"
             style="width: 207.10px; height: 175.12px; left: 6.59px; top: 9.58px; position: absolute; background: white">
         </div>
@@ -196,12 +210,14 @@
         <div class="Rp15000"
             style="width: 181.48px; height: 27.88px; left: 19.76px; top: 245.16px; position: absolute; text-align: center; color: #62D2A2; font-size: 24px; font-family: Inter; font-weight: 500; word-wrap: break-word">
             Rp 15.000</div>
+            <a href="http://127.0.0.1:8000/detailobat">
         <div class="Rectangle17"
             style="width: 70.98px; height: 33.98px; left: 74.64px; top: 273.57px; position: absolute; background: #62D2A2; border-radius: 20px">
         </div>
         <div class="Beli"
             style="width: 55px; height: 20px; left: 83px; top: 280px; position: absolute; text-align: center; color: white; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">
             BELI</div>
+    </a>
         <div class="Rectangle44"
             style="width: 207.10px; height: 175.12px; left: 6.59px; top: 9.58px; position: absolute; background: white">
         </div>
@@ -218,12 +234,14 @@
         <div class="Rp15000"
             style="width: 181.48px; height: 27.88px; left: 19.76px; top: 245.16px; position: absolute; text-align: center; color: #62D2A2; font-size: 24px; font-family: Inter; font-weight: 500; word-wrap: break-word">
             Rp 15.000</div>
+            <a href="http://127.0.0.1:8000/detailobat">
         <div class="Rectangle17"
             style="width: 70.98px; height: 33.98px; left: 74.64px; top: 273.57px; position: absolute; background: #62D2A2; border-radius: 20px">
         </div>
         <div class="Beli"
             style="width: 55px; height: 20px; left: 83px; top: 280px; position: absolute; text-align: center; color: white; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">
             BELI</div>
+    </a>
         <div class="Rectangle44"
             style="width: 207.10px; height: 175.12px; left: 6.59px; top: 9.58px; position: absolute; background: white">
         </div>
@@ -240,12 +258,14 @@
         <div class="Rp15000"
             style="width: 181.48px; height: 27.88px; left: 19.76px; top: 245.16px; position: absolute; text-align: center; color: #62D2A2; font-size: 24px; font-family: Inter; font-weight: 500; word-wrap: break-word">
             Rp 15.000</div>
+            <a href="http://127.0.0.1:8000/detailobat">
         <div class="Rectangle17"
             style="width: 70.98px; height: 33.98px; left: 74.64px; top: 273.57px; position: absolute; background: #62D2A2; border-radius: 20px">
         </div>
         <div class="Beli"
             style="width: 55px; height: 20px; left: 83px; top: 280px; position: absolute; text-align: center; color: white; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">
             BELI</div>
+    </a>
         <div class="Rectangle44"
             style="width: 207.10px; height: 175.12px; left: 6.59px; top: 9.58px; position: absolute; background: white">
         </div>
@@ -254,12 +274,14 @@
             gambar</div>
     </div>
     <div class="Group50" style="width: 56px; height: 52px; left: 10px; top: 11px; position: absolute">
+        <a href="http://127.0.0.1:8000/daftar_apotek">
         <div class="Rectangle45"
             style="width: 56px; height: 52px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 20px">
         </div>
         <div
             style="left: 15px; top: 4px; position: absolute; text-align: center; color: #62D2A2; font-size: 36px; font-family: Inter; font-weight: 700; word-wrap: break-word">
             < </div>
+    </a>
         </div>
 </body>
 

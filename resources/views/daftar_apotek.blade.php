@@ -11,10 +11,8 @@
         <div class="MedicinePartner" style="left: 162px; top: 37px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Inter; font-weight: 700; word-wrap: break-word">MEDICINE<br/>PARTNER</div>
         <input type="text" class="Rectangle15" style="width: 779px; height: 59px; left: 292px; top: 37px; position: absolute; background: #FCFCFC; font-size: xx-large">
         <div class="Group33" style="width: 73px; height: 45px; left: 985px; top: 44px; position: absolute">
-          <a href="http://127.0.0.1:8000/pencarian">
           <div class="Rectangle16" style="width: 73px; height: 45px; left: 0px; top: 0px; position: absolute; background: #1FAB89"></div>
           <img class="pencarian" style="width: 38px; height: 38px; left: 18px; top: 3px; position: absolute" src="img/pencarian.png" />
-          </a>
         </div>
         <div style="left: 98px; top: 1px; position: absolute; text-align: center; color: white; font-size: 96px; font-family: Inter; font-weight: 700; word-wrap: break-word">+</div>
         <div class="Group34" style="width: 616px; height: 176px; left: 44px; top: 161px; position: absolute">
